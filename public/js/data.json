@@ -1,0 +1,174 @@
+{
+    "Home":[
+        {
+
+        }
+    ],
+    "Section1":[
+        {
+            "id":1,
+            "img":"/images/home/slider-1.jpg",
+            "title":"We combine design,thinking and technical",
+            "desc":"Everything you could possibly want it to do and not only that , beautifully carefully designed.",
+            "btn1":"PURCHASE POFO",
+            "btn2":"DOWNLOAD NOW"
+        },
+        {
+            "id":2,
+            "img":"/images/home/slider-2.jpg",
+            "title":"We always stay on the cutting edge of digital",
+            "desc":"Everything you could possibly want it to do and not only that , beautifully carefully designed.",
+            "btn1":"PURCHASE POFO",
+            "btn2":"DOWNLOAD NOW"
+        },
+        {
+            "id":3,
+            "img":"/images/home/slider-3.jpg",
+            "title":"We crafts stunning and intuitive apps",
+            "desc":"Everything you could possibly want it to do and not only that , beautifully carefully designed.",
+            "btn1":"PURCHASE POFO",
+            "btn2":"DOWNLOAD NOW"
+        }
+
+    ],
+    "Projects":[
+        {
+            "id":1,
+            "img":"images/home/projects/1.jpg",
+            "title":"HERBAL BEAUTY SALON",
+            "desc":"BRANDING AND IDENTITY"
+        }
+        ,
+        {
+            "id":2,
+            "img":"images/home/projects/2.jpg",
+            "title":"TAILORING INTERIOR",
+            "desc":"BRANDING AND BROCHURE"
+        }
+        ,
+
+        {
+            "id":3,
+            "img":"images/home/projects/3.jpg",
+            "title":"DESIGNBLAST INC",
+            "desc":"WEB AND PHOTOGRAPHY"
+        },
+        {
+            "id":4,
+            "img":"images/home/projects/4.jpg",
+            "title":"HARDDOT STONE",
+            "desc":"BRANDING AND IDENTITY"
+        },
+        {
+            "id":5,
+            "img":"images/home/projects/5.jpg",
+            "title":"CROP IDENTITY",
+            "desc":"BRANDING AND BROCHURE"
+        },
+        {
+            "id":6,
+            "img":"images/home/projects/6.jpg",
+            "title":"VIOLATOR SERIES",
+            "desc":"WEB AND PHOTOGRAPHY"
+        },
+        {
+            "id":7,
+            "img":"images/home/projects/1.jpg",
+            "title":"HERBAL BEAUTY SALON",
+            "desc":"BRANDING AND IDENTITY"
+        }
+        ,
+        {
+            "id":8,
+            "img":"images/home/projects/2.jpg",
+            "title":"TAILORING INTERIOR",
+            "desc":"BRANDING AND BROCHURE"
+        }
+    ],
+    "Creative":[
+        {
+            "id":1,
+            "title":"Different Layout Type",
+            "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard text."
+        }
+        ,
+        {
+            "id":2,
+            "title":"Elegant / Unique design",
+            "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard text."
+        },
+        {
+            "id":3,
+            "title":"Testing for Perfection",
+            "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard text."
+        },
+        {
+            "id":4,
+            "title":"True Responsiveness",
+            "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard text."
+        }
+
+
+    ],
+    "About":[
+        {
+            "id":1,
+            "number":"01.",
+            "title":"Creativity." ,
+            "title2":"Discover talent.",
+            "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry."
+        },
+        {
+            "id":2,
+            "number":"02.",
+            "title":"Technology." ,
+            "title2":"Expert analysis",
+            "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry."
+        },
+        {
+            "id":3,
+            "number":"03.",
+            "title":"Discover." ,
+            "title2":"Explore work.",
+            "desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry."
+        }
+        
+    ],
+    "Works":[
+        {
+            "id":1,
+            "image":"images/home/projects/1.jpg",
+            "desc":" Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industryLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        },
+        {
+            "id":2,
+            "image":"images/home/projects/2.jpg",
+            "desc":" Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industryLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+        }
+    ],
+    "Social" :[
+        {
+            "id" : 1,
+            "title"  : "Follow me on",
+            "p":"Social Facebook",
+            "icon" : "fab fa-facebook-square fa-lg",
+            "site":"face"
+            
+        },
+        {
+            "id" : 2,
+            "title"  : "Follow me on",
+            "p":"Social Twitter",
+            "icon":"fab fa-twitter-square fa-lg",
+            "site":"twitter"
+        },
+        {
+            "id" : 3,
+            "title"  : "Follow me on",
+            "p":"Social Pinterest",
+            "icon":"fab fa-pinterest fa-lg",
+            "site":"pin"
+        }
+    ]
+
+}
