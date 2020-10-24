@@ -7,7 +7,7 @@
     "Section1":[
         {
             "id":1,
-            "img":"/images/home/slider-1.jpg",
+            "img":"https://images.pexels.com/photos/7070/space-desk-workspace-coworking.jpg",
             "title":"We combine design,thinking and technical",
             "desc":"Everything you could possibly want it to do and not only that , beautifully carefully designed.",
             "btn1":"PURCHASE POFO",
@@ -15,7 +15,7 @@
         },
         {
             "id":2,
-            "img":"/images/home/slider-2.jpg",
+            "img":"https://images.pexels.com/photos/7070/space-desk-workspace-coworking.jpg",
             "title":"We always stay on the cutting edge of digital",
             "desc":"Everything you could possibly want it to do and not only that , beautifully carefully designed.",
             "btn1":"PURCHASE POFO",
@@ -23,7 +23,7 @@
         },
         {
             "id":3,
-            "img":"/images/home/slider-3.jpg",
+            "img":"https://images.pexels.com/photos/7070/space-desk-workspace-coworking.jpg",
             "title":"We crafts stunning and intuitive apps",
             "desc":"Everything you could possibly want it to do and not only that , beautifully carefully designed.",
             "btn1":"PURCHASE POFO",
