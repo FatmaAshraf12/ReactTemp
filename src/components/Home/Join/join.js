@@ -11,7 +11,7 @@ const Join = () =>{
                     <InfoTiltle><TitleSpan>This is</TitleSpan> OUR COMPANY</InfoTiltle>
                     <InfoH>Join Us</InfoH>
                     <InfoDesc>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim est <Linko>explicabo</Linko> maxime quibusdam quaerat nihil aliquid aperiam deleniti, repellendus dolorum. Possimus nisi cupiditate ad veritatis?
+                        ipsum dolor sit amet, consectetur adipisicing elit. Enim est <Linko>explicabo</Linko> maxime quibusdam quaerat nihil aliquid aperiam deleniti, repellendus dolorum. Possimus nisi cupiditate ad veritatis?
                     </InfoDesc>
                     <InfoDesc>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim est explicabo maxime quibusdam quaerat nihil aliquid aperiam deleniti, repellendus dolorum. Possimus nisi cupiditate ad veritatis?

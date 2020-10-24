@@ -29,7 +29,7 @@ class About extends Component{
         <div className="about-1">
             
             <div className="row">
-                <img src="images/about/1.jpg" className="col-md-6 col-xs-12"/>
+                <img src="https://images.pexels.com/photos/3184436/pexels-photo-3184436.jpeg" className="col-md-6 col-xs-12"/>
                 <div className="caption col-md-6 col-xs-12">
                     <h3>We are loved team</h3><br/><br/>
                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 

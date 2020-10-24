@@ -30,12 +30,12 @@ class Works extends Component {
 
                 <Div className='container-fluid' >            
                     <OwlCarousel items={4} className="owl-theme"  loop  nav  margin={8} autoplay="true" >  
-                        <Div ><Img  data-merge="1"className="img" src= {'images/home/projects/1.jpg'}/></Div>  
-                        <Div><Img  data-merge="1" className="img" src= {'images/home/projects/2.jpg'}/></Div>  
-                        <Div><Img  data-merge="1"className="img" src= {'images/home/projects/3.jpg'}/></Div>  
-                        <Div><Img  data-merge="1"className="img" src= {'images/home/projects/4.jpg'}/></Div>  
-                        <Div><Img data-merge="1"className="img" src= {'images/home/projects/5.jpg'}/></Div>  
-                        <Div><Img data-merge="1"className="img" src= {'images/home/projects/6.jpg'}/></Div> 
+                        <Div ><Img  data-merge="1"className="img" src= "images/home/projects/1.jpg"/></Div>  
+                        <Div><Img  data-merge="1" className="img" src= "images/home/projects/2.jpg"/></Div>  
+                        <Div><Img  data-merge="1"className="img" src= "images/home/projects/3.jpg"/></Div>  
+                        <Div><Img  data-merge="1"className="img" src= "images/home/projects/4.jpg" /></Div>  
+                        <Div><Img data-merge="1"className="img" src= "images/home/projects/5.jpg" /></Div>  
+                        <Div><Img data-merge="1"className="img" src= "images/home/projects/6.jpg"/></Div> 
                     </OwlCarousel>  
                 </Div>
         </WorkSection>

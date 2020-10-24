@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Creative = styled.div`
     height: 500px;
-    background: url('../images/about/2.jpg');
+    background: url("images/about/1.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed

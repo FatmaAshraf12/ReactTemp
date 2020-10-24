@@ -2,14 +2,14 @@ import React , {useState,useEffect,Components} from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Carousel from 'react-bootstrap/Carousel';
 import axios from 'axios';
-import {SliderImg,pad,SliderCaption,Title2,Desc,Br,Button,HomeSection}from './style.js';
+import {SliderImg,SliderCaption,Title2,Desc,Br,Button,HomeSection}from './style.js';
 
 
 const Slider = () => {
     const[text,setText]= useState([])
     
     useEffect(()=>{
-        axios.get("js/data.json").then(res=>{setText(res.data.Section1)})
+        axios.get('js/data.json').then(res=>{setText(res.data.Section1)})
     } , [])
 
     const List = text.map((item=>{
